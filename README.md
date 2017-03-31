@@ -1,4 +1,4 @@
 # poczatek_info
-ghfdfgf
+Matematyka jest opisem języka
 
-Ucze sie!
+Ucz sie!
