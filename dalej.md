@@ -1,2 +1,0 @@
-##Co to do ch.. jest :car: 
-
