@@ -1,5 +1,5 @@
-# math_info
+# mathematica
 
 > #  Matematyka jest opisem języka
-> Ucz sie!
+> 
 >
