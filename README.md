@@ -1,5 +1,5 @@
 #  Narzędzia Google dla Edukacji
-(pics/Foto1.jpg)
+![Narędzia Google dla Edukacji](Foto1)
 
 > #  wykorzustanie pakietu G Suite for School 
 > 
