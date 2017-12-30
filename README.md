@@ -1,5 +1,5 @@
-# mathematica
+#  Narzędzia Google dla Edukacji 
 
-> #  Matematyka jest opisem języka
+> #  wykorzustanie pakietu G Suite for School 
 > 
 >
